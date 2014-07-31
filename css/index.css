@@ -59,7 +59,7 @@ section {
 header {
   background-color: #333333;  
 /*  http://img2.wikia.nocookie.net/__cb20120612000612/swisscheese/images/e/e2/Cheese_wallpaper_by_E2_S.png*/    
-  background-image: url(../images/header-background.jpg);
+  background-image: url(http://img2.wikia.nocookie.net/__cb20120612000612/swisscheese/images/e/e2/Cheese_wallpaper_by_E2_S.png);
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
